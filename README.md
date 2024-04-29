@@ -1,5 +1,5 @@
-Task: Basics of containerization
-Application with two docker containers.
+Task: Basics of containerization\
+Application with two docker containers.\
 Description: Saves the time of the visit to the url "/" in the database. Displays the last visit and the number of visits.
 App: Python
 Framework: Flask
